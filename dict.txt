@@ -1,0 +1,20 @@
+apple:яблоко
+car:машина
+sunflower:подсолнух
+prejudice:предубеждение
+success:успех
+embarrass:смущать
+Wednesday:среда
+cheque:чек
+withdraw:снимать, выводить (деньги)
+clothes:одежда
+employer:работодатель
+persuade:убедить
+confidence:уверенность
+harass:беспокоить
+appointment:встреча, прием
+review:обзор, рецензия
+geography:география
+research:исследование
+architecture:архитектура
+government:правительство
