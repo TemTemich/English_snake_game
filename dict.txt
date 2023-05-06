@@ -18,3 +18,4 @@ geography:география
 research:исследование
 architecture:архитектура
 government:правительство
+orange:оранжевый
